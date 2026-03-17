@@ -1,7 +1,7 @@
 import pandas as pd
 
 # load dataset
-df = pd.read_csv("data/Warehouse_and_Retail_Sales.csv")
+df = pd.read_csv("data/Warehouse_and_Retail_Sales - Copy.csv")
 
 print("Initial shape:", df.shape)
 
