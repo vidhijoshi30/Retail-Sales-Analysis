@@ -94,15 +94,23 @@ Dashboard Visualization
 
 ---
 
-## 📈 Key Insights
+## 💡 Key Insights
 
-(Add after you complete analysis, example below)
+### Retail vs Warehouse Sales
+![Retail vs Warehouse](dashboard/retail_vs_warehouse.png)
+- Warehouse sales contribute more than retail overall.
 
-* Warehouse sales contribute more to total revenue than retail
-* Certain suppliers dominate overall sales
-* Seasonal trends observed in monthly sales
-* Specific item types consistently outperform others
+### Monthly Sales Trend
+![Monthly Sales Trend](dashboard/monthly_sales_trend.png)
+- Sales peak in specific months, indicating seasonality.
 
+### Top Suppliers
+![Top Suppliers](dashboard/top_suppliers.png)
+- Supplier X is the top contributor to warehouse revenue.
+
+### Sales by Item Type
+![Sales by Item Type](dashboard/sales_by_item_type.png)
+- Item type Y consistently performs best across channels.
 ---
 
 ## 🧠 What I Learned
